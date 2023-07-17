@@ -9,8 +9,8 @@
     > list
     > tuple
     > set
-    > dictinary
     > frozenset
+    > dictinary
     > bool
     > complex
 > casting
