@@ -11,11 +11,12 @@
     > set
     > frozenset
     > dictinary
-    > bool
     > complex
+    > bool
 > casting
 > input()
-> conditional programming(if, else, elfi, nested if else, nested if elif else, ternary operator)
+> operator
+> conditional programming(if, else, elif, nested if else, nested if elif else, ternary operator)
 > loop 
     > for loop (nest for loop, list comprehension, dictinary comprehension, set comprehension)
     > while loop (nested while loop)
