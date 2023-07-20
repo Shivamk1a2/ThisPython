@@ -15,8 +15,8 @@
     > bool
 > casting
 > input()
-> operator
-> conditional programming(if, else, elif, nested if else, nested if elif else, ternary operator)
+> operator( Arithmetic, Assignment, Comparision, Logical, Identity, Membership, Bitwise )
+> conditional programming (if, else, elif, nested if else, nested if elif else, ternary operator)
 > loop 
     > for loop (nest for loop, list comprehension, dictinary comprehension, set comprehension)
     > while loop (nested while loop)
