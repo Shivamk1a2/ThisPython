@@ -17,15 +17,36 @@
 > input()
 > operator( Arithmetic, Assignment, Comparision, Logical, Identity, Membership, Bitwise )
 > conditional programming (if, else, elif, nested if else, nested if elif else, ternary operator)
-> loop 
-    > for loop (nest for loop, list comprehension, dictinary comprehension, set comprehension)
-    > while loop (nested while loop)
-    > pattern using single loop (for loop, while loop)
-    > pattern using more then one loop (for loop, while loop)
+> Loop :- 
+    > For loop , while loop
+    > For Loop :-
+          > single for loop
+          > nested for loop
+          > pattern using single for Loop
+          > paatern using nested for loop
+          > countinue
+          > break
+          > pass
+          > comprehension
+               > list comprehension
+               > set comprehension
+               > frozenset comprehension
+               > dictinary comprehension
+               > tuple comprehension
+    > While Loop :-
+          > single for loop
+          > nested for loop
+          > pattern using single for Loop
+          > paatern using nested for loop
+          > countinue
+          > break
+          > pass
+          > while loop does not support comprehension
 > function
     > def
     > lambda (anonymous function, fat function)
-> decorator
+    > decorator
+    > generator
 > multitasking (threading)
 > garbage collector (gc)
 > exception handling
